@@ -1,0 +1,1 @@
+per il corretto funzionamento del programma si suggerisce di non spostare cartelle e file presenti all'interno
